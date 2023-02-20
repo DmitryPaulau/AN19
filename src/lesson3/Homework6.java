@@ -10,11 +10,10 @@ public class Homework6 {
             arr[i] = (int) (Math.random() * 50);
             System.out.print(" " + arr[i]);
             if (i % 2 != 0) {
-                i = 0;
+                arr[i] = 0;
             }
         }
         System.out.println();
         System.out.println(Arrays.toString(arr));
-// Не могу вывести первоначальный массив.
     }
 }
