@@ -1,9 +1,8 @@
 package lesson3;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Homework5 {
+public class AdditionalTask4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите размер массива");

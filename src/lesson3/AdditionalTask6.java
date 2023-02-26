@@ -2,7 +2,7 @@ package lesson3;
 
 import java.util.Arrays;
 
-public class Homework7 {
+public class AdditionalTask6 {
     public static void main(String[] args) {
         String[] name = {
                 "Игорь",

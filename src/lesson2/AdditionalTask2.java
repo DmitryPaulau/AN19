@@ -2,7 +2,7 @@ package lesson2;
 
 import java.util.Scanner;
 
-public class Main15 {
+public class AdditionalTask2 {
     static final float INTEREST_RATE = 1.07F;
 
     public static void main(String[] args) {

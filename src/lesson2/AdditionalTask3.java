@@ -1,8 +1,6 @@
 package lesson2;
 
-import java.util.Scanner;
-
-public class Main16 {
+public class AdditionalTask3 {
     public static void main(String[] args) {
         for(int i = 1; i <= 10; i++){
             for(int k = 1; k <= 10; k++){

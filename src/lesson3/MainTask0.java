@@ -3,7 +3,7 @@ package lesson3;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Homework1 {
+public class MainTask0 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число");
