@@ -2,7 +2,7 @@ package lesson3;
 
 import java.util.Arrays;
 
-public class Homework6 {
+public class AdditionalTask5 {
     public static void main(String[] args) {
         int[] arr = new int[10];
 

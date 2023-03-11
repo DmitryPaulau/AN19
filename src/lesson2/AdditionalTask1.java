@@ -1,6 +1,6 @@
 package lesson2;
 
-public class Main14 {
+public class AdditionalTask1 {
     public static void main(String[] args) {
         int i = 0;
         int x = 1;

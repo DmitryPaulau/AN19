@@ -1,8 +1,8 @@
 package lesson2;
 
-public class Main12 {
+public class Cycle4 {
     public static void main(String[] args) {
-        for (int i = 0; i > -50; i -= 5){
+        for (int i = 7; i< 99; i+=7){
             System.out.println(i);
         }
     }

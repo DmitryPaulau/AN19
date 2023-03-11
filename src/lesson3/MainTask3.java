@@ -3,7 +3,7 @@ package lesson3;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Homework4 {
+public class MainTask3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите размеры массивов");

@@ -3,7 +3,7 @@ package lesson3;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Homework2 {
+public class MainTask1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

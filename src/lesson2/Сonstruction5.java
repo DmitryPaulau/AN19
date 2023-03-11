@@ -2,7 +2,7 @@ package lesson2;
 
 import java.util.Scanner;
 
-public class Main7 {
+public class Сonstruction5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Номер цвета радуги");
