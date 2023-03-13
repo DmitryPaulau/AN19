@@ -24,11 +24,10 @@ public class Homework2 {
                 }
             }
         }
-        for (int i = 0; i< 3; i++){
-            for (int j = 0; j < 3; j++){
-                System.out.print(Arrays.toString(new int[]{arr3[i][j]}));
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
             }
-            System.out.println();
+            System.out.println(Arrays.toString(arr3[i]));
         }
     }
 }

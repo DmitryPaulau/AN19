@@ -9,17 +9,16 @@ public class Homework4 {
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {
                 arr[i][j] = (int) (Math.random() * 20);
-                System.out.print(Arrays.toString(new int[]{arr[i][j]}));
             }
-            System.out.println();
+            System.out.println(Arrays.toString(arr[i]));
         }
         for (int i = 0; i <= index; i++) {
             System.out.print(arr[i][i] + " ");
         }
         System.out.println();
-        for (int i = 0; i <=index;i++){
+        for (int i = 0; i <= index; i++) {
             System.out.print(arr[index - i][i] + " ");
         }
-            System.out.println();
+        System.out.println();
     }
 }

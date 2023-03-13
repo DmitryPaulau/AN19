@@ -9,7 +9,9 @@ public class Homework5 {
             for (int j = 0; j < arr[i].length; j++) {
                 arr[i][j] = (int) (Math.random() * 20);
             }
+            Arrays.sort(arr[i]);
+            System.out.println(Arrays.toString(arr[i]));
         }
     }
 }
-// Не сделал пока.
+
